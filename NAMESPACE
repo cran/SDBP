@@ -1,0 +1,13 @@
+ export(sdbpk) 
+ export(sdbp.default) 
+ export(summary.sdbp)
+ export(bpk) 
+ export(bp) 
+ export(dbpk)
+  
+
+ S3method(print, sdbp) 
+ S3method(summary,sdbp)
+ S3method(print, sdbpk) 
+ S3method(print, bp)
+ 
